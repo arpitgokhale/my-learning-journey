@@ -1,0 +1,16 @@
+Hello, GitHub!
+
+My name is Arpit Gokhale.
+
+I am an Electronics and Communication Engineering student.
+
+I am learning:
+- C++
+- Python
+- Git and GitHub
+- Artificial Intelligence
+- Embedded Systems
+
+This is my first GitHub file.
+
+My goal is to become a skilled engineer
