@@ -14,3 +14,6 @@ I am learning:
 This is my first GitHub file.
 
 My goal is to become a skilled engineer
+I am currently learning GitHub step by step.
+
+My goal is to build real-world projects in Electronics and Software Development.
