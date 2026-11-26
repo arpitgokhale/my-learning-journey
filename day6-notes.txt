@@ -1,0 +1,18 @@
+GitHub Day 6 Practice
+
+My name is Arpit Gokhale.
+
+Today I learned:
+
+1. What is a Branch?
+2. What is a Fork?
+3. What is a Pull Request?
+4. What is Merge?
+
+I created my first branch:
+day6-practice
+
+I am learning C++ and GitHub
+step by step.
+
+My goal is to become a skilled engineer.
